@@ -3,7 +3,7 @@
 # 1. Overview
 
 The goal of this project was to predict and visualize human emotional states (calm, stress, focus, amusement, meditation) from biosignals such as heart rate variability (HRV), galvanic skin response (GSR), and EEG-derived metrics.
-We focused on building a fully interpretable machine learning pipeline capable of distinguishing emotional states using physiological patterns — directly supporting your broader goal of modeling emotions in AGI systems.
+We focused on building a fully interpretable machine learning pipeline capable of distinguishing emotional states using physiological patterns
 
 
 # 2. Dataset Information
